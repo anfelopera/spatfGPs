@@ -9,7 +9,7 @@ Our Python implementations are based on the GPflow library (gpflow==2.0.0rc1)
 
 ### References:
 
-[1] López-Lopera, A. F., Idier, D., Rohmer, R., and Bachoc, F. (2015).
+[1] López-Lopera, A. F., Idier, D., Rohmer, R., and Bachoc, F. (2020).
 Multi-output Gaussian processes with functional data: A study on coastal flood hazard assessment.
 ArXiv E-Prints.
 
