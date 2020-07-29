@@ -14,6 +14,6 @@ ArXiv E-Prints.
 GPflow: A Gaussian process library using TensorFlow.
 Journal of Machine Learning Research, 18(40):1–6.
 
-[3] Deville, Y., Ginsbourger, D., and Roustant, O. (2015).
+[3] Deville, Y., Ginsbourger, D., and Roustant, O. (2019).
 kergp: Gaussian Process Laboratory.
-R package version 0.2.0.
+R package version 0.5.0.

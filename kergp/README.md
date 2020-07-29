@@ -12,6 +12,6 @@ Our R implementations are based on the kergp package (kergp==0.5.0)
 Multi-output Gaussian processes with functional data: A study on coastal flood hazard assessment.
 ArXiv E-Prints.
 
-[2] Deville, Y., Ginsbourger, D., and Roustant, O. (2015).
+[2] Deville, Y., Ginsbourger, D., and Roustant, O. (2019).
 kergp: Gaussian Process Laboratory.
-R package version 0.2.0.
+R package version 0.5.0.
