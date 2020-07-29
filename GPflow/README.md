@@ -2,7 +2,7 @@
 
 Our Python implementations are based on the GPflow library (gpflow==2.0.0rc1)
 
-### Dependences:
+### Dependencies:
 1. Tensorflow (tensorflow==2.0.0)
 2. GPflow (gpflow==2.0.0rc1)
 3. SMT (smt==0.4.3)
